@@ -1,0 +1,10 @@
+﻿#error blabla
+Premiere ligne
+#include "refrain-copie.txt"
+#ifdef short_version
+Quatrième ligne
+#import "exemple3.txt"
+#else
+#error Un message qui ne sera pas affiché
+Une ligne qui ne sera pas gardée
+#endif

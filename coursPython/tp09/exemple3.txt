@@ -1,0 +1,3 @@
+﻿Troisième ligne
+
+#define short_version

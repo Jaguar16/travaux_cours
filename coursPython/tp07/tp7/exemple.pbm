@@ -1,0 +1,9 @@
+P1
+# fichier exemple.pbm
+# indique le format pbm
+5   # indique la largueur de l'image
+3   # indique la hauteur de l'image
+1 1 1 1 1  # une premiere ligne noire
+0 0 0 0 0  # une deuxieme ligne blanche
+1 1 1      # debut troisieme ligne
+1 1        # fin troisieme ligne
